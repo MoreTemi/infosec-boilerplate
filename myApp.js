@@ -1,7 +1,7 @@
 const express = require('express');
 const helmet = require('helmet');
 const app = express();
-const PORT = process.env.PORT || 3030; 
+const PORT = process.env.PORT || 3000; 
 
 
 
@@ -52,5 +52,5 @@ app.get("/", function (request, response) {
 let port = process.env.PORT || 3000;
 
 app.listen(port, () => {
-  console.log(`🥦MoreTemi information security app  started on port ${PORT}`);
+  console.log(`🥦MoreTemi information security app  started on port ${port}`);
 });
