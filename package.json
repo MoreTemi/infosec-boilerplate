@@ -16,5 +16,7 @@
 		"express",
 		"freecodecamp"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"repository": "https://github.com/MoreTemi/infosec-boilerplate.git",
+	"author": "Temitope Abdulyekeen Oyeyemi <temitope.oyeyemi101@gmail.com>"
 }
